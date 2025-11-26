@@ -5,7 +5,7 @@
     <tr>
       <td width="55%" align="left">
 
-Sou desenvolvedor em formação, com foco em **desenvolvimento de software** e interesse especial em **Java**, **desenvolvimento de APIs**, **JavaScript**, **Kotlin** e **C++**.
+Sou desenvolvedor em formação, com foco em **desenvolvimento de software** e interesse especial em **Java**, **desenvolvimento de APIs**, **JavaScript**, **C**, **Kotlin** e **C++**.
 
 Atualmente, dedico meus estudos a:
 
